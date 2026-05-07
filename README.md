@@ -1,6 +1,6 @@
 # License Generator
 
-Gerador offline de arquivos `license.dat` para o produto **AutoClickMed**.
+Gerador offline de arquivos `license.dat` para o produto *******.
 
 O programa possui uma interface gráfica simples para gerar uma licença a partir de:
 
@@ -16,7 +16,7 @@ A licença gerada é salva como `license.dat`.
 - Interface gráfica com Tkinter
 - Geração offline de licença
 - Assinatura digital usando chave privada
-- Produto fixo: `AutoClickMed`
+- Produto fixo: *******
 - Validade fixa: vitalícia
 - Salvamento automático das últimas configurações locais
 
