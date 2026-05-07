@@ -1,0 +1,48 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# VS Code local
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache de ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build e executáveis
+build/
+dist/
+*.spec
+*.exe
+
+# Chaves privadas
+keys/
+*.pem
+*.key
+
+# Configuração local
+.env
+.env.*
+config/app_settings.json
+app_settings.json
+app_setting.json
+
+# Licenças geradas
+licenses/
+license.dat
+*.dat
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
